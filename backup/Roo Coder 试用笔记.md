@@ -5,7 +5,7 @@
 个人开发环境是wsl中的ubuntu。
 # 实战
 选择一个约在2k star以内的此前不熟悉的项目作为体验ai编程的起点。
-这里选择了[kuberay](https://github.com/ray-project/kuberay)，共有1.5k star，随便找了其中的一个issue https://github.com/ray-project/kuberay/issues/3061
+这里选择了[kuberay](https://github.com/ray-project/kuberay)，共有1.5k star，随便找了其中的一个issue 3061
 我们来看看ai能否帮助我们解决这个问题。
 ## 项目介绍
 首先让ai帮我们熟悉一下这个项目。
